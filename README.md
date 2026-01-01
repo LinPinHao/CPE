@@ -9,7 +9,14 @@
 
 ---
 
-## 2025-09-30
+## 2018-10-02
+1. [UVa 12650 Dangerous Dive]()
+2. [UVa 10409 Die Game]()
+3. [UVa 00145 Gondwanaland Telecom]()
+4. [UVa 11157 Dynamic Frog]()
+5. [UVa 13185 DPA Numbers I]()
+6. [UVa 12208 How Many Ones Needed?]()
+7. [UVa 10364 Square]()
 
 ---
 

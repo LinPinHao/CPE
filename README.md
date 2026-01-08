@@ -9,6 +9,17 @@
 
 ---
 
+## 2020-12-22
+1. [11689 Soda Surpler](https://github.com/Pin-Hao-Lin/UVa/tree/main/11689%20Soda%20Surpler)
+2. [10188 Automated Judge Script](https://github.com/Pin-Hao-Lin/UVa/tree/main/10188%20Automated%20Judge%20Script)
+3. [10415 Eb Alto Saxophone Player](https://github.com/Pin-Hao-Lin/UVa/tree/main/10415%20Eb%20Alto%20Saxophone%20Player)
+4. [11536 Smallest Sub-Array](https://github.com/Pin-Hao-Lin/UVa/tree/main/11536%20Smallest%20Sub-Array)
+5. [11960 Divisor Game](https://github.com/Pin-Hao-Lin/UVa/tree/main/11960%20Divisor%20Game)
+6. [12319 Edgetown’s Traffic Jams](https://github.com/Pin-Hao-Lin/UVa/tree/main/12319%20Edgetown's%20Traffic%20Jams)
+7. [11633 Food portion size](https://github.com/Pin-Hao-Lin/UVa/tree/main/11633%20Food%20portion%20size)
+
+---
+
 ## 2018-10-02
 1. [UVa 12650 Dangerous Dive](https://github.com/Pin-Hao-Lin/UVa/tree/main/12650%20Dangerous%20Dive)
 2. [UVa 10409 Die Game](https://github.com/Pin-Hao-Lin/UVa/tree/main/10409%20Die%20Game)

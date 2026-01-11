@@ -20,6 +20,17 @@
 
 ---
 
+## 2020-05-26
+1. [10268 498-bis](https://github.com/Pin-Hao-Lin/UVa/tree/main/10268%20498-bis)
+2. [00263 Number Chains](https://github.com/Pin-Hao-Lin/UVa/tree/main/00263%20Number%20Chains)
+3. [01237 Expert Enough?](https://github.com/Pin-Hao-Lin/UVa/tree/main/01237%20Expert%20Enough)
+4. [12918 Lucky Thief](https://github.com/Pin-Hao-Lin/UVa/tree/main/12918%20Lucky%20Thief)
+5. [01316 Supermarket](https://github.com/Pin-Hao-Lin/UVa/tree/main/01316%20Supermarket)
+6. [11730 Number Transformation](https://github.com/Pin-Hao-Lin/UVa/tree/main/11730%20Number%20Transformation)
+7. [11284 Shopping Trip](https://github.com/Pin-Hao-Lin/UVa/tree/main/11284%20Shopping%20Trip)
+
+---
+
 ## 2018-10-02
 1. [UVa 12650 Dangerous Dive](https://github.com/Pin-Hao-Lin/UVa/tree/main/12650%20Dangerous%20Dive)
 2. [UVa 10409 Die Game](https://github.com/Pin-Hao-Lin/UVa/tree/main/10409%20Die%20Game)
